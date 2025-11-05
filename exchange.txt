@@ -1,0 +1,17 @@
+American Dollar-USD-341.7500
+English Font-GBP-451.4300
+Australian Dollar-AUD-226.5500
+Bulgarian Lev-BGN-208.7600
+Czech koruna-CZK-16.4600
+Danish Krone-DKK-53.6800
+Euro-EUR-394.9800
+Japanise Yen-JPY-2.2484
+Kanadian Dollar-CAD-246.9300
+Polish Zloty-PLN-95.4600
+Norwegian Krone-NOK-34.4700
+Russian Ruble-RUB-4.3900
+Romanian Leu-RON-80.3000
+Schwiss Franc-CHF-421.7200
+Swedish Krona-SEK-36.7200
+Serbian Dinar-RSD-3.4900
+Turkish Lira-TRY-8.7800 
